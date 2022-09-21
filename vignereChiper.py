@@ -1,3 +1,7 @@
+#Abi Rahmawan
+#V3921001
+#TI-D
+
 huruf_alfabet = "abcdefghijklmnopqrstuvwxyz" #Mendeklasikan variabel huruf yang berisi huruf alfabet (a-z) yang berjumlah 26
 
 huruf_ke_index = dict(zip(huruf_alfabet, range(len(huruf_alfabet)))) #Menerjemahkan huruf ke index (Contoh : a = 0, b = 1, dst)
